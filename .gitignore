@@ -2,11 +2,3 @@
 .idea
 .ipynb_checkpoints
 *.py
-image.png
-image_t1.png
-image_t2.png
-image_t5.png
-image_t10.png
-image_t20.png
-image_t50.png
-image_t100.png
