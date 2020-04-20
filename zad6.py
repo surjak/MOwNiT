@@ -200,4 +200,5 @@ class Graph:
 
 g = Graph()
 g.read_file()
+
 g.kirchoff()
