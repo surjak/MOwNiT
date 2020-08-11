@@ -3,3 +3,6 @@
 .ipynb_checkpoints
 *.py
 sample_text
+image.png
+web*
+*.zip
